@@ -1,0 +1,10 @@
+/* Global Styles */
+
+* {
+  font-family: "Roboto", Arial, sans-serif;
+  color: #616161;
+}
+body {
+  padding: 0px !important;
+  margin: 0px !important;
+}
